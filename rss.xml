@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Pat Shields</title>
+    <link>patshields.net</link>
+    <description>RSS Feed for Pat Shields' Blog</description>
+    <pubDate>Mon, 24 Feb 2014 03:30:00 -0500</pubDate>
+    <item>
+      <title>Clojure Bootcamp Part 1</title>
+      <link>patshields.net/clojure/adzerk/bootcamp/2014/02/24/clojure-bootcamp-part-1.html</link>
+      <description>&lt;p&gt;Adzerk has been a polyglot programming shop for as long as anyone can remember. We have code written in C#, Ruby, Coffeescript, Java, and I have a tiny bit of python stashed away somewhere. A few months ago, I added Clojure to that list when I wrote two small services we needed. They’ve been operationally painless and have performed well, particularly given that I they have not been tuned at all. Given my success there and the potential for future projects in Clojure, the team decided to learn Clojure and asked me to teach them.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 24 Feb 2014 03:30:00 -0500</pubDate>
+      <guid>patshields.net/clojure/adzerk/bootcamp/2014/02/24/clojure-bootcamp-part-1.html</guid>
+      <dc:date>2014-02-24T03:30:00-05:00</dc:date>
+    </item>
+    <dc:date>2014-02-24T03:30:00-05:00</dc:date>
+  </channel>
+</rss>
